@@ -1,6 +1,6 @@
 # Final-Project-Airbnb-Asia-Pacific-APAC-Market-Analysis
 
-Programmatic data science pipeline and exploratory analytics architecture evaluating over 29,000 Airbnb listings across 113 Asia-Pacific cities to isolate pricing dynamics, capacity optimization thresholds, and operational host performance drivers.
+A Python data project analyzing over 29,000 Airbnb listings across 113 Asia-Pacific cities. The project cleans raw marketplace data and uses interactive charts to show how hosts can optimize pricing, choose the best room sizes, and earn more money using the Superhost badge.
 
 
 🌅The Asia-Pacific Tourism Boom
