@@ -11,16 +11,25 @@ This Python project explores the vacation rental market across major Asia-Pacifi
 
 
 🎯 Project Objectives ¶
-Find and Clean Data Errors: Detect and remove impossible listings—like 41 bedrooms or 999-night stay rules—before starting the analysis.
+
+Find and Clean Data Errors: Detect and remove impossible listings—like 41 bedrooms or 999-night stay rules—before starting the analysis. 
+
 Analyze Pricing Factors: Find out which property traits (like bedrooms, beds, and size) affect the nightly price the most.
+
 Study Cleaning Fees: Check how much hosts charge for cleaning and find out if higher fees affect overall bookings.
+
 Map Out Supply & Demand: Identify which property sizes and layout styles are most common and popular in the market.
+
 Compare City Differences: Contrast pricing and occupancy rates across different cities to locate the most profitable areas.
+
 Track Room Types: Investigate whether entire homes, private rooms, or shared rooms perform best financially.
+
 Review Superhost Value: Test if having a "Superhost" badge leads to higher nightly rates and better overall ratings.
 
 
+
 📊Dataset Info
+
 Target File Source: listings.csv
 Total Volume: 29,153 total listings across the dataset
 Geographic Distribution: Spans across 113 individual cities in the Asia-Pacific region
