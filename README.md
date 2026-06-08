@@ -1,4 +1,4 @@
-# Final-Project-Airbnb-Asia-Pacific-APAC-Market-Analysis
+# Airbnb Asia-Pacific (APAC) Market-Analysis
 
 A Python data project analyzing over 29,000 Airbnb listings across 113 Asia-Pacific cities. The project cleans raw marketplace data and uses interactive charts to show how hosts can optimize pricing, choose the best room sizes, and earn more money using the Superhost badge.
 
